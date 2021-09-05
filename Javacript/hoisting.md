@@ -1,5 +1,5 @@
-#Hoisting
-Hoisting in js referes to the ability to call a method, or variable before it was created.  
+# Hoisting  
+Hoisting in js referes to the ability to call a method, or variable before **it was created**.  
 
 ## Function declaration vs Function expression
 A simple example of hoisting would be that of function expression vs function declaration.
